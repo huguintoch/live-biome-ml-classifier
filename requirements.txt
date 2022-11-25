@@ -1,0 +1,4 @@
+PyAutoGUI
+numpy
+matplotlib
+scikit-image
